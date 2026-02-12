@@ -1,15 +1,11 @@
-### Hi there 👋
+### hello :)
 
-I'm a student studying Artificial Intelligence at the Deggendorf Institute of Technology.
+cs masters @ uni augsburg. i define schemas, reshape tensors, and make pretty plots. 
 
-- 🔭 I’m currently in my 4th semester.
-- 🌱 I’m currently learning Linux and Vim.
-- 😄 My Pronouns: he/him
-- ⚡ Fun fact: Glass Animals are my favourite band! 🍍
+### skills
 
-<!--
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
+📈 **data analysis** - sql, pandas, polars, seaborn, plotly
+
+🤗 **machine learning** - sklearn, pytorch, mlflow, optuna
+
+🌐 **backend dev** - flask, fastapi, pytest, sqlalchemy
